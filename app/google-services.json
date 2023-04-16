@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513546796638",
+    "firebase_url": "https://newchatbase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "newchatbase",
+    "storage_bucket": "newchatbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513546796638:android:807fadad36872684833ecf",
+        "android_client_info": {
+          "package_name": "com.example.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513546796638-hh8fpfp40v7aedgs1bq6i4k0q69e5glp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ahbm0WMW06d37k6cTxh__IwQHhNQr_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513546796638-hh8fpfp40v7aedgs1bq6i4k0q69e5glp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
